@@ -1,18 +1,18 @@
 defmodule Repo do
-  @moduledoc """
-  Documentation for `Repo`.
-  """
+	@moduledoc """
+	Documentation for `Repo`.
+	"""
 
-  @doc """
-  Hello world.
+	@doc """
+	Hello world.
 
-  ## Examples
+	## Examples
 
-      iex> Repo.hello()
-      :world
+		iex> Repo.hello()
+		:world
 
-  """
-  def hello do
-    :world
-  end
+	"""
+	def hello do
+		:world
+	end
 end

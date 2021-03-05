@@ -1,18 +1,18 @@
 defmodule Accounts do
-  @moduledoc """
-  Documentation for `Accounts`.
-  """
+	@moduledoc """
+	Documentation for `Accounts`.
+	"""
 
-  @doc """
-  Hello world.
+	@doc """
+	Hello world.
 
-  ## Examples
+	## Examples
 
-      iex> Accounts.hello()
-      :world
+		iex> Accounts.hello()
+		:world
 
-  """
-  def hello do
-    :world
-  end
+	"""
+	def hello do
+		:world
+	end
 end
